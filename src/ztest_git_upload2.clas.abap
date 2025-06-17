@@ -13,6 +13,6 @@ ENDCLASS.
 
 CLASS ZTEST_GIT_UPLOAD2 IMPLEMENTATION.
   method MAIN.
-    write 'Hello world 2'.
+    write 'Hello world 3'.
   endmethod.
 ENDCLASS.
